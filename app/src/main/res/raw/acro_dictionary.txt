@@ -1,0 +1,23 @@
+API: Application Programming Interface
+CPU: Complimentary Metal-Oxide Semiconductor
+CMOS: Central Processing Unit
+DHCP: Dynamic Host Configuration Protocol
+DNS: Domain Name System
+LAN: Local Area Network
+RIP: Routing Information Protocol
+ROM: Read-Only Memory
+TCP/IP: Transmission Control Protocol / Internet Protocol
+USB: Universal Serial Bus
+WAN: Wide-Area Network
+OMG: Oh My God
+LMFAO: Laughing My Fucking Ass Off
+FOMO: Fear of Missing Out
+YOLO: You Only Live Once
+LOL: Laugh Out Loud
+IMHO: In My Honest Opinion
+AFAIK: As Far As I Know
+FYI: For Your Information
+RSVP: Respondez Sil Vous Plait
+MVP: Minimum Valuable Product
+LNS: Late Night Slack
+DMS: Dan Miller Smith
