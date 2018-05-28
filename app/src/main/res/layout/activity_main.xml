@@ -12,10 +12,10 @@
         android:layout_height="wrap_content"
         android:text= "Click on an acronym to see its meaning"
         android:textAlignment="center"
-        android:textSize="20dp"
+        android:textSize="20sp"
         android:layout_marginVertical="15dp"
         android:textColor="@color/colorPrimaryDark"
-        android:fontFamily="sans-serif"/>
+        app:fontFamily="sans-serif"/>
 
     <ListView
         android:id="@+id/acronym_list_view"

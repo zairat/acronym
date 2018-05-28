@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainMenu"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Let's learn some acronyms!"
+        android:textSize="28sp"
+        android:textAlignment="center"
+        android:textColor="@color/colorPrimaryDark"
+        android:layout_marginTop="20sp"/>
+
+    <Button
+        android:id="@+id/play_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/colorAccent"
+        android:hapticFeedbackEnabled="true"
+        android:paddingHorizontal="60sp"
+        android:paddingVertical="15sp"
+        android:text="Play"
+        android:textSize="20sp"
+        android:layout_gravity="center"
+        android:layout_marginTop="150sp"/>
+
+    <Button
+        android:id="@+id/add_acro_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#929292"
+        android:hapticFeedbackEnabled="true"
+        android:paddingHorizontal="30sp"
+        android:paddingVertical="10sp"
+        android:text="Add an Acronym"
+        android:textSize="18sp"
+        android:layout_gravity="center"
+        android:layout_marginTop="30sp"/>
+
+</LinearLayout>
