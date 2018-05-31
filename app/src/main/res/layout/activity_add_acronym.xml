@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AddAcronym"
+    android:orientation="vertical"
+    android:gravity="center">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Acronym:"
+        android:layout_gravity="left"
+        android:layout_margin="10sp"
+        />
+
+    <EditText
+        android:id="@+id/acro_text_box"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#efefef"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Meaning:"
+        android:layout_gravity="left"
+        android:layout_marginTop="20sp"
+        android:layout_margin="10sp"/>
+
+    <EditText
+        android:id="@+id/mean_text_box"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#efefef"/>
+
+    <Button
+        android:id="@+id/add_new_acro"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="add"
+        android:layout_margin="30sp"/>
+
+</LinearLayout>
